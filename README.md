@@ -2,6 +2,8 @@
 
 Bu proje Türkiye, Rusya ve diğer ülkelerde bulunan engelli siteler ve uygulamalar için VPN'siz ve internet hızında yavaşlama olmadan girmek için GoodbyeDPI baz alınarak üzerine çeşitli düzenlemeler, hazır parametreler ve arayüz tasarlanmış bir versiyonudur. Ek özellikler barındırır. Gayet sade basit bir uygulamadır.
 
+👉 [Releases sekmesinden en son sürümü indirin!](https://github.com/EmreCanAkdeniz/DPIUnlocker/releases)
+
 ## Kaspersky Antivirüsü Kullananlar Hakkında Önemli Not
 >
 > [!CAUTION]
